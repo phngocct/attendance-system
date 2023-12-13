@@ -1,4 +1,6 @@
-# To run the program, it requires installing the necessary libraries in the `requirements.txt` file
+# To run the program:
+
+It requires installing the necessary libraries in the `requirements.txt` file
 
 Source code FaceAttendanceSystem:
 - Run the file `StudentManagement.py` to open the lecturer's student management interface.
