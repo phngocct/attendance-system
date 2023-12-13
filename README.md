@@ -34,7 +34,9 @@ extraction and encoding.
 
 # Some face images in the dataset:
 <br/>
-<img src="/assets/images/imagefromstudents.png" alt="imagefromstudents" width="600" height="400">
+<h2 align="center">
+  <img src="/assets/images/imagefromstudents.png" alt="method" width="600">
+</h2>
 
 ## Project Description
 
