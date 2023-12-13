@@ -1,0 +1,5 @@
+Student ID: FP22004
+Full name: Hồng Phước Hậu
+Major: Lập trình Game
+Face locations: [(139, 196, 268, 67)]
+Time completed: 0:00:01.516883

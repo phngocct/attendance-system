@@ -1,0 +1,5 @@
+Student ID: FP22012
+Full name: Nguyễn Anh Hào
+Major: Chăm sóc sức khỏe và Làm đẹp
+Face locations: [(99, 191, 240, 50)]
+Time completed: 0:00:16.813230

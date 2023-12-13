@@ -1,0 +1,5 @@
+Student ID: FP22015
+Full name: Nguyễn Hoàng Ninh
+Major: Lập trình Web
+Face locations: [(134, 176, 304, 7)]
+Time completed: 0:00:17.510696

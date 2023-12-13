@@ -1,0 +1,5 @@
+Student ID: FP22013
+Full name: Nguyễn Chí Hiếu
+Major: Tiếng Anh - Top Notch
+Face locations: [(99, 177, 240, 36)]
+Time completed: 0:00:20.656656

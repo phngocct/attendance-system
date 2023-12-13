@@ -1,0 +1,5 @@
+Student ID: FP22026
+Full name: Trần Thái Bảo
+Major: Tiếng Anh - Top Notch
+Face locations: [(117, 245, 287, 75)]
+Time completed: 0:00:20.502639

@@ -1,0 +1,5 @@
+Student ID: FP22025
+Full name: Trần Quốc Thịnh
+Major: Chăm sóc sức khỏe và Làm đẹp
+Face locations: [(84, 191, 226, 50)]
+Time completed: 0:00:25.006197

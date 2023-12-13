@@ -1,0 +1,5 @@
+Student ID: FP22016
+Full name: Nguyễn Khánh Đăng
+Major: Lập trình Mobile
+Face locations: [(170, 220, 312, 79)]
+Time completed: 0:00:23.245622

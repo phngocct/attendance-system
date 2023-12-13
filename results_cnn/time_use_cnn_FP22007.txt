@@ -1,0 +1,5 @@
+Student ID: FP22007
+Full name: Huỳnh Phi Hùng
+Major: Quản trị kinh doanh
+Face locations: [(84, 191, 226, 50)]
+Time completed: 0:00:18.596797

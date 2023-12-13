@@ -1,0 +1,5 @@
+Student ID: FP22014
+Full name: Nguyễn Hoàng Nam
+Major: Phát triển phần mềm
+Face locations: [(133, 184, 288, 29)]
+Time completed: 0:00:01.193631

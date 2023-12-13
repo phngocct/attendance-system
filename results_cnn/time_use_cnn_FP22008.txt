@@ -1,0 +1,5 @@
+Student ID: FP22008
+Full name: Huỳnh Thanh Hiếu
+Major: Công nghệ Kỹ thuật điều khiển & Tự động hóa
+Face locations: [(117, 211, 287, 41)]
+Time completed: 0:00:16.236841

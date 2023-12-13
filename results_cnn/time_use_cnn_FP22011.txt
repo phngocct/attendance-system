@@ -1,0 +1,5 @@
+Student ID: FP22011
+Full name: Lê Trường Hiếu
+Major: Công nghệ kỹ thuật cơ khí
+Face locations: [(82, 228, 252, 58)]
+Time completed: 0:00:15.444413

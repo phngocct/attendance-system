@@ -1,0 +1,5 @@
+Student ID: FP22030
+Full name: Võ Văn Tính
+Major: Lập trình Game
+Face locations: [(187, 163, 295, 55)]
+Time completed: 0:00:01.635359

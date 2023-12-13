@@ -1,0 +1,5 @@
+Student ID: FP22020
+Full name: Nguyễn Quốc Cường
+Major: Quản trị kinh doanh
+Face locations: [(134, 176, 304, 7)]
+Time completed: 0:00:15.694827

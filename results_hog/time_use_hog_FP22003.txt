@@ -1,0 +1,5 @@
+Student ID: FP22003
+Full name: Đỗ Tuấn Khải
+Major: Lập trình Mobile
+Face locations: [(142, 216, 365, 0)]
+Time completed: 0:00:01.887196

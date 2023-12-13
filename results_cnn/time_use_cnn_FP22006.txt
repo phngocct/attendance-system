@@ -1,0 +1,5 @@
+Student ID: FP22006
+Full name: Huỳnh Dương Tấn Khanh
+Major: Xử lý dữ liệu
+Face locations: [(112, 180, 230, 62)]
+Time completed: 0:00:16.237069

@@ -1,0 +1,5 @@
+Student ID: FP22021
+Full name: Nguyễn Trung Tín
+Major: Công nghệ Kỹ thuật điều khiển & Tự động hóa
+Face locations: [(150, 201, 305, 46)]
+Time completed: 0:00:01.373627

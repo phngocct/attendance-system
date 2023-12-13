@@ -1,0 +1,5 @@
+Student ID: FP22031
+Full name: Vũ Khánh Toàn
+Major: Ứng dụng phần mềm
+Face locations: [(139, 210, 268, 81)]
+Time completed: 0:00:01.436900

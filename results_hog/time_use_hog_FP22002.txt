@@ -1,0 +1,5 @@
+Student ID: FP22002
+Full name: Chung Gia Linh
+Major: Lập trình Web
+Face locations: [(196, 225, 325, 96)]
+Time completed: 0:00:01.451058

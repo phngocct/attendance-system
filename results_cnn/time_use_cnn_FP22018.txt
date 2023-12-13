@@ -1,0 +1,5 @@
+Student ID: FP22018
+Full name: Nguyễn Nhật Tân
+Major: Ứng dụng phần mềm
+Face locations: [(117, 176, 287, 7)]
+Time completed: 0:00:16.880698

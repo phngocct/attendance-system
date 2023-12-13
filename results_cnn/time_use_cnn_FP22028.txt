@@ -1,0 +1,5 @@
+Student ID: FP22028
+Full name: Trần Y Mỹ
+Major: Lập trình Web
+Face locations: [(100, 168, 218, 50)]
+Time completed: 0:00:19.462558

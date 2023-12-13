@@ -1,0 +1,5 @@
+Student ID: FP22017
+Full name: Nguyễn Minh Thuận
+Major: Lập trình Game
+Face locations: [(167, 218, 322, 64)]
+Time completed: 0:00:01.599040

@@ -1,0 +1,5 @@
+Student ID: FP22010
+Full name: Lê Nhật Phi
+Major: Hướng dẫn du lịch
+Face locations: [(117, 194, 287, 24)]
+Time completed: 0:00:17.476224

@@ -1,0 +1,5 @@
+Student ID: FP22029
+Full name: Võ Nhựt Duy
+Major: Lập trình Mobile
+Face locations: [(99, 191, 240, 50)]
+Time completed: 0:00:20.532340

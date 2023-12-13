@@ -1,0 +1,5 @@
+Student ID: FP22024
+Full name: Phan Minh Thuận
+Major: Công nghệ kỹ thuật cơ khí
+Face locations: [(142, 191, 283, 50)]
+Time completed: 0:00:17.592230

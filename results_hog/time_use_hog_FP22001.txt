@@ -1,0 +1,5 @@
+Student ID: FP22001
+Full name: Bùi Văn Tấn
+Major: Phát triển phần mềm
+Face locations: [(116, 201, 270, 46)]
+Time completed: 0:00:02.705882

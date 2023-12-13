@@ -1,0 +1,5 @@
+Student ID: FP22019
+Full name: Nguyễn Quách Hồng My
+Major: Xử lý dữ liệu
+Face locations: [(148, 192, 266, 74)]
+Time completed: 0:00:18.377364

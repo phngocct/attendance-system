@@ -1,0 +1,5 @@
+Student ID: FP22027
+Full name: Trần Thị Gấm
+Major: Phát triển phần mềm
+Face locations: [(116, 218, 270, 64)]
+Time completed: 0:00:01.329559

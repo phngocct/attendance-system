@@ -1,0 +1,5 @@
+Student ID: FP22022
+Full name: Phạm Hoàng Sơn
+Major: Thiết kế đồ họa
+Face locations: [(142, 191, 283, 50)]
+Time completed: 0:00:16.468591

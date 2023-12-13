@@ -1,0 +1,5 @@
+Student ID: FP22005
+Full name: Huỳnh Anh Tuấn
+Major: Ứng dụng phần mềm
+Face locations: [(125, 225, 254, 96)]
+Time completed: 0:00:01.853055

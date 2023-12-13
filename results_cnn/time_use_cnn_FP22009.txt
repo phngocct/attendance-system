@@ -1,0 +1,5 @@
+Student ID: FP22009
+Full name: Lâm Kim Uyên
+Major: Thiết kế đồ họa
+Face locations: [(52, 192, 170, 74)]
+Time completed: 0:00:17.183599

@@ -1,0 +1,5 @@
+Student ID: FP22023
+Full name: Phan Huỳnh Hồng Sơn
+Major: Hướng dẫn du lịch
+Face locations: [(113, 177, 255, 36)]
+Time completed: 0:00:18.430223
